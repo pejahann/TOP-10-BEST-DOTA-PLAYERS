@@ -1,7 +1,10 @@
 h1 
 {
-    background-color: red;
+    color: red;
     font-weight: bolder;
+}
+h3{
+    color: red;
 }
 
 p
@@ -18,7 +21,7 @@ p
 {
     color: green;
 }
-*
+body
 {
     color: white;
     background-color: black;
@@ -27,5 +30,6 @@ img
 {
     width: 100%;
     border: 20px;
+    border: color red;
 }
 
