@@ -13,7 +13,7 @@ h3{
 body
 {
     color: white;
-    background-color: black;
+    background-color:#292b45;
 }
 img
 {
@@ -24,4 +24,15 @@ img
 *{
     text-align: center;
 }
-
+.playernamecolor
+{
+    color: cyan;
+}
+.bordered-link {
+    border: 5px solid red;
+    border-radius: 1000px;
+    padding: 5px;
+    text-decoration: none;
+    color: aqua;
+    background-color: red;
+}
