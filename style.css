@@ -1,10 +1,10 @@
 
 h1 
 {
-    font-weight: bolder;
+    font-weight: bold;
 }
 h3{
-    font-weight: bolder;
+    font-weight: bold;
 }
 #id-selector-demo
 {
@@ -35,4 +35,18 @@ img
     text-decoration: none;
     color: aqua;
     background-color: red;
+}
+.btn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+    transition: background-color 0.3s;
+}
+.btn:hover {
+    background-color: #45a049;
 }
